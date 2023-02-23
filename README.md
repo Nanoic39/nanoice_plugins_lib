@@ -1,0 +1,2 @@
+# nanoice_plugins_lib
+存放nanoice相关插件的插件库
