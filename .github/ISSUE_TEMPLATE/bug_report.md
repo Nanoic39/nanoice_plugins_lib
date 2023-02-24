@@ -7,10 +7,10 @@ assignees: ''
 
 ---
 
-**描述问题**
+## **描述问题**
 用清晰简洁的话描述您遇到的问题
 
-**如何复现**
+## **如何复现**
 详细描述复现问题的步骤:
 1. 跳转至 '...'
 2. 点击 '....'
@@ -18,22 +18,19 @@ assignees: ''
 4. 出现问题
 如果可以，请同时提供报错日志
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## **预期行为**
+用清晰简洁的话描述此 插件/特性/功能 应该进行的预期行为
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## **屏幕截图**
+如果提供更多 相关且详细 的屏幕截图，可以帮助我们更好的帮助您解决问题
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## **问题环境:**
+ - 操作系统: [e.g. iOS]
+ - Python版本
+ - Bot版本
+ - 插件版本
+ - 插件/Bot配置
+ - 更多您认为有必要写入的信息
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+## **其它内容**
+添加其它您认为有助于解决问题的信息
